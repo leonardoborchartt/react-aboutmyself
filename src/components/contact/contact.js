@@ -1,8 +1,8 @@
-// Importando o React
+
 import React from "react";
-// Importando os components necessários da lib react-materialize
+
 import { Modal, Row, Col, Card, Input, Button } from 'react-materialize';
-// Importando o componenet UserProfile
+
 import UserProfile from '../user_profile/user_profile'
 
 const trigger = <Button>Enviar</Button>;

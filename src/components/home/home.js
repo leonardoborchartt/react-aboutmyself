@@ -1,4 +1,4 @@
-// Importando o React
+
 import React from "react";
 import {  Row, Col, Card } from 'react-materialize';
 import UserProfile from '../user_profile/user_profile'
