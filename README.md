@@ -1,2 +1,2 @@
 projeto em react - curriculo
-update 12:57
+update 13:00
