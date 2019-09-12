@@ -1,1 +1,1 @@
-# react-aboutmyself
+projeto em react - curriculo
